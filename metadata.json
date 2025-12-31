@@ -1,0 +1,5 @@
+{
+  "name": "Trust Indicator Speedometer",
+  "description": "An animated trust indicator gauge that visualizes values from 1 to 100 with smooth needle transitions and clear reliability zones.",
+  "requestFramePermissions": []
+}
